@@ -1,0 +1,11 @@
+{
+  "name": "neon-strike-void-runner-beta",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "NEON STRIKE: VOID RUNNER - 60FPS retro-synthwave neon space combat shooter with procedural Web Audio sound, particle physics, and boss AI",
+  "scripts": {
+    "start": "node main.ts",
+    "serve": "node serve.ts"
+  },
+  "license": "MIT"
+}
